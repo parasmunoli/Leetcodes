@@ -12,7 +12,7 @@ def plusOne(digits):
 digits = [1,2,3]
 print(plusOne(digits))
 
-#you can also use
+#you can also use but not for long numbers
 """
 def plusOne(self, digits: List[int]) -> List[int]:
         count = 0
