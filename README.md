@@ -1,10 +1,21 @@
-Welcome to the LeetCode Python Solutions repository! This is a collection of my solutions to various LeetCode problems implemented in Python. Whether you're a coding enthusiast, preparing for interviews, or just looking to enhance your problem-solving skills, you'll find clear and concise Python implementations for a wide range of LeetCode challenges.
+# LeetCode Python Solutions
 
-Key Features:
-i) Organized by LeetCode problem ID for easy navigation.
-ii) Each solution includes detailed comments explaining the approach and algorithm used.
-iii) Regularly updated with new solutions and improvements.
+Welcome to the LeetCode Python Solutions repository!  
+This repository contains a collection of my solutions to various LeetCode problems implemented in Python.  
+Whether you're a coding enthusiast, preparing for technical interviews, or looking to improve your problem-solving skills, this collection aims to provide clear and well-documented Python implementations for a wide range of challenges.
 
-Feel free to explore, learn, and contribute! If you have any questions, suggestions, or improvements, don't hesitate to open an issue or submit a pull request.
+## Key Features
 
-Happy coding!
+- **Organized by Problem ID**: Solutions are neatly organized by LeetCode problem IDs for easy navigation and reference.
+- **Well-Commented Code**: Each solution includes detailed comments explaining the logic, approach, and any optimizations used.
+- **Regular Updates**: New solutions and improvements are added regularly.
+
+## How to Use
+
+1. Browse the repository using the problem ID or name.
+2. Open the Python file to view the solution and accompanying explanations.
+3. Run the code in your preferred Python environment to test and learn from the logic.
+
+---
+
+Happy coding and keep practicing!
